@@ -1,0 +1,3 @@
+.DS_Store
+# left behind by a local `brew test-bot` run
+*.bottle.*
