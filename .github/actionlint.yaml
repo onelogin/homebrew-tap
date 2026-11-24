@@ -1,0 +1,5 @@
+# `brew style` (run by brew test-bot) uses this file in place of Homebrew's own
+# actionlint config, so list every repository/organization variable the
+# workflows read. Without it, actionlint rejects `vars.BLACKDUCKSCA_URL`.
+config-variables:
+  - BLACKDUCKSCA_URL
